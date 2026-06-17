@@ -2,15 +2,23 @@
 
 echo "(0) Preparing pipeline";
 
-REPO="https://github.com/Dhrrrrr/linux-config-arch-hyprland.git"
+REPO="github.com/Dhrrrrr/linux-config-arch-hyprland.git"
 GIT_USER="Dhrrrrr"
 GIT_PAT=$(cat ~/Documents/!GIT/key)
 DIRECTORY="../"
+
+if [ $? -ne 0 ]; then
+  echo "--------------- Pipeline Failure -------------"
+  echo "Error on (0) Initialization"
+  echo ""
+  exit
+fi
 
 echo ""
 echo "(1) Adding files to repo"
 
 cd $DIRECTORY
+echo "Pipeline operating under: $(pwd)"
 git add --all
 
 if [ $? -ne 0 ]; then
@@ -34,13 +42,25 @@ if [ $? -ne 0 ]; then
   exit
 fi
 
+
 echo ""
-echo "(3) Pushing to git"
-git -c credential.helper='!f() { echo "username=${GIT_USER}"; echo "password=${GIT_PAT}"; }; f' push ${REPO} main
+echo "(3) Confirming Credentials"
+curl -u "$GIT_USER:$GIT_PAT" https://api.github.com/user
 
 if [ $? -ne 0 ]; then
   echo "--------------- Pipeline Failure -------------"
-  echo "Error on (3) Pushing to git - Make sure username and PAT are correct"
+  echo "Error on (3) PAT Credential Confirmation"
+  echo ""
+  exit
+fi
+
+echo ""
+echo "(4) Pushing to git"
+git push "https://$GIT_USER:$GIT_PAT@$REPO" main
+
+if [ $? -ne 0 ]; then
+  echo "--------------- Pipeline Failure -------------"
+  echo "Error on (4) Pushing to git - Make sure username and PAT are correct"
   echo ""
   exit
 fi
