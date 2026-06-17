@@ -36,7 +36,7 @@ fi
 
 echo ""
 echo "(3) Pushing to git"
-git -c credential.helper='!f() { echo "username=${GIT_USER}"; echo "password=${GIT_PAT}"; }; f' push https://${REPO} main
+git -c credential.helper='!f() { echo "username=${GIT_USER}"; echo "password=${GIT_PAT}"; }; f' push ${REPO} main
 
 if [ $? -ne 0 ]; then
   echo "--------------- Pipeline Failure -------------"
