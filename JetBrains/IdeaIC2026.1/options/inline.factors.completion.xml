@@ -1,0 +1,66 @@
+<application>
+  <component name="TimeBetweenTyping">
+    <dailyDataMap>
+      <entry key="2026-05-20">
+        <DailyData>
+          <option name="count" value="18" />
+          <option name="totalTime" value="4635" />
+        </DailyData>
+      </entry>
+      <entry key="2026-05-21">
+        <DailyData>
+          <option name="count" value="1429" />
+          <option name="totalTime" value="510448" />
+        </DailyData>
+      </entry>
+      <entry key="2026-05-22">
+        <DailyData>
+          <option name="count" value="4290" />
+          <option name="totalTime" value="1883740" />
+        </DailyData>
+      </entry>
+      <entry key="2026-05-23">
+        <DailyData>
+          <option name="count" value="4593" />
+          <option name="totalTime" value="2259708" />
+        </DailyData>
+      </entry>
+      <entry key="2026-06-09">
+        <DailyData>
+          <option name="count" value="3331" />
+          <option name="totalTime" value="1659747" />
+        </DailyData>
+      </entry>
+      <entry key="2026-06-10">
+        <DailyData>
+          <option name="count" value="2344" />
+          <option name="totalTime" value="1066251" />
+        </DailyData>
+      </entry>
+      <entry key="2026-06-11">
+        <DailyData>
+          <option name="count" value="3736" />
+          <option name="totalTime" value="1478074" />
+        </DailyData>
+      </entry>
+      <entry key="2026-06-12">
+        <DailyData>
+          <option name="count" value="4339" />
+          <option name="totalTime" value="1939968" />
+        </DailyData>
+      </entry>
+      <entry key="2026-06-13">
+        <DailyData>
+          <option name="count" value="1094" />
+          <option name="totalTime" value="444823" />
+        </DailyData>
+      </entry>
+      <entry key="2026-06-14">
+        <DailyData>
+          <option name="count" value="327" />
+          <option name="totalTime" value="154734" />
+        </DailyData>
+      </entry>
+    </dailyDataMap>
+  </component>
+</application>

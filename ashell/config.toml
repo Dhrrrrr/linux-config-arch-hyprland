@@ -1,0 +1,35 @@
+[modules]
+left = [ "Clock" ]
+center = [ "Workspaces" ]
+right = ["Tray", "SystemInfo", "Privacy", "Updates", "Settings"]
+
+[appearance]
+scale_factor=0.8
+style="Gradient"
+opacity=0.04
+text_color="#ffffff"
+workspace_colors=["#ff00c3"]
+special_workspace_colors=["#4400ff"]
+
+[appearance.menu]
+opacity=0.4
+
+[appearance.background_color]
+base="#ff00c3"
+strong="#ff00ae"
+weak="#ff00dd"
+text="#777777"
+
+[settings]
+lock_cmd = "playerctl --all-players pause; nixGL hyprlock &"
+shutdown_cmd = "hyprshutdown"
+suspend_cmd = "systemctl suspend"
+logout_cmd = "loginctl kill-user $(whoami)"
+
+[system_info]
+indicators = ["UploadSpeed", "DownloadSpeed"]
+
+[updates]
+check_cmd = "checkupdates; yay -Qua"
+update_cmd = 'kitty -e bash -c "yay -Syu; echo UPDATES DONE MOTHERFUCKER WOOOOOOOOOOOO; read" &'
+

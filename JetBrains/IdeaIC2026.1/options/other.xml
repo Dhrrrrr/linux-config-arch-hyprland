@@ -1,0 +1,107 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;FindSplitterProportion&quot;: &quot;0.32995567&quot;,
+    &quot;JUnitSupport.hidePassedTests&quot;: &quot;false&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;6&quot;,
+    &quot;NewProjectWizard.generateOnboardingTips&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.modal.commit.toggle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.reset.auto.reparse.settings.to.default&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.terminal.escape.behavior.change.notification&quot;: &quot;true&quot;,
+    &quot;TerminalCompletionPopupPromotion.shownCount&quot;: &quot;3&quot;,
+    &quot;WAYLAND_NOTIFICATION_ALREADY_SHOWN&quot;: &quot;true&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;build.toolwindow.Build Output.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep&quot;: &quot;IntelliJ&quot;,
+    &quot;com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor&quot;: &quot;Sources&quot;,
+    &quot;decompiler.legal.notice.accepted&quot;: &quot;true&quot;,
+    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
+    &quot;experimental.ui.first.switch&quot;: &quot;true&quot;,
+    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;261.24374.151&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;1&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;git.working.trees.stop.showing.new.badge&quot;: &quot;true&quot;,
+    &quot;got.it.tooltip.coverage.view.elements.filter&quot;: &quot;1&quot;,
+    &quot;ide.islands.ab3&quot;: &quot;true&quot;,
+    &quot;ide.islands.new.darcula&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;261.24374.151-IJ&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/djamieson/Documents/COMPX341/Ass4&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;onboarding.generation.number&quot;: &quot;5&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Islands Dark&quot;,
+    &quot;project.wizard.group&quot;: &quot;NPW.simple-project.Java&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IC-261.24374.151&quot;,
+    &quot;tab_selection_count&quot;: &quot;5&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass4&quot;,
+      &quot;/home/djamieson/Documents/COMPX301/compx301-assignment4&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/junit-platform-console-standalone-1.8.2.jar&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass3/Assignment3-Code/src/lib/gs-ui-1.3.jar&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass3/Assignment3-Code/src/lib/gs-core-1.3.jar&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass3/Assignment3-Code/src/lib/json-simple-1.1.1.jar&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass3/Assignment3-Code/src/lib/junit-platform-console-standalone-1.11.0-M1.jar&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass3/Assignment3-Code/src/gs-ui-1.3.jar&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass3/Assignment3-Code&quot;,
+      &quot;/home/djamieson/Documents/COMPX341/Ass3&quot;,
+      &quot;/home/djamieson/Documents/COMPX301/compx301-assignment3&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ReworkedTerminalUsage"><![CDATA[{
+  "enterKeyPressedTimes": 965,
+  "completionPopupShownTimes": 82,
+  "completionItemChosenTimes": 20,
+  "firstIdeSessionMoment": {
+    "type": "org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.Version",
+    "build": "IC-261.23567.138"
+  }
+}]]></component>
+  <component name="TerminalAgentsState">{}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="COMPX341-Assignment4-history141" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781254937160" />
+      <command-history-file filename="COMPX341-Assignment4-history38" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781255165694" />
+      <command-history-file filename="COMPX341-Assignment4-history68" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781254551341" />
+      <command-history-file filename="COMPX341-Assignment4-history11" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781254681688" />
+      <command-history-file filename="COMPX341-Assignment4-history2" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781252788834" />
+      <command-history-file filename="COMPX341-Assignment4-history65" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781253598005" />
+      <command-history-file filename="COMPX341-Assignment4-history10" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781254593259" />
+      <command-history-file filename="COMPX341-Assignment4-history3" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781252920638" />
+      <command-history-file filename="COMPX341-Assignment4-history30" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781254984895" />
+      <command-history-file filename="COMPX341-Assignment4-history1" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781252679533" />
+      <command-history-file filename="COMPX341-Assignment4-history6" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781253326071" />
+      <command-history-file filename="COMPX341-Assignment4-history156" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781255479907" />
+      <command-history-file filename="COMPX341-Assignment4-history7" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781254578739" />
+      <command-history-file filename="COMPX341-Assignment4-history4" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781253036547" />
+      <command-history-file filename="COMPX341-Assignment4-history" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781251004916" />
+      <command-history-file filename="COMPX341-Assignment4-history5" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781252913594" />
+      <command-history-file filename="COMPX341-Assignment4-history8" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781252813482" />
+      <command-history-file filename="COMPX341-Assignment4-history9" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781253560417" />
+      <command-history-file filename="COMPX341-Assignment4-history108" project-path="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" last-access-time="1781255087744" />
+    </command-history-files>
+  </component>
+</application>

@@ -1,0 +1,603 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="COMPX341-Assignment4" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2mwef0ikgq8z4" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Tests/Test.java" file-id="93598" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="330">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Test.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Backend.java" file-id="93655" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1210">
+              <caret line="59" column="43" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Backend.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/EncostSmartHomesDataset.txt" file-id="93657" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"EncostSmartHomesDataset.txt","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pipeline.sh" file-id="108831" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="546">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pipeline.sh","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,17,110,111,100,101,115,47,99,111,110,115,111,108,101,46,115,118,103,18,25,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,115,104,101,108,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-88,-76,-117,-54,5,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Device.java" file-id="93652" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Device.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Dataset.java" file-id="93658" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Dataset.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/GraphDataType.java" file-id="93656" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="770">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+              <folding>
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"GraphDataType.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 41,
+      "lastUsed": 1781308502351
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 6,
+      "lastUsed": 1781308502007
+    },
+    "Shell Script": {
+      "usageCount": 3,
+      "lastUsed": 1781308501973
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/GraphDataType.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Backend.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/EncostSmartHomesDataset.txt&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/GitLab_Tests_1/categorizingUsersUnitTests.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/CategorizingSmartHomeDevicesUnitTests.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/GitLab_Tests_1/BuildingGraphDataTypeUnitTests.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/GitLab_Tests_1/BuildingGraphDataTypeUnitTests.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Dataset.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Device.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Tests/BuildingGraphDataTypeUnitTests.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/BuildingGraphDataTypeUnitTests.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Tests/Main.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Tests/Test.java&quot;,
+    &quot;/home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/pipeline.sh&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="41" lastUsage="1781308502351" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="3" lastUsage="1781308501976" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1781308502007" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="COMPX341-Assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COMPX341-Assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COMPX341-Assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="COMPX341-Assignment4" />
+            <item name="COMPX341-Assignment4" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="COMPX341-Assignment4" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/out" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="out" />
+                <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/out}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Tests" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="Tests" />
+                  <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Tests}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/Tests/lib" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="lib" />
+                    <item name="dir{file:///home/djamieson/Documents/COMPX341/Ass4/COMPX341-Assignment4/src/Tests/lib}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/Tests/README.md" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                    <item name="README.md" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/Tests/Test.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Test" />
+                    <item name="Test" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/Tests/Test.class" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaClass.svg" iconPlugin="com.intellij" isLeaf="true" text="Test.class" />
+                    <item name="Test.class" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Backend.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Backend" />
+                  <item name="Backend" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Backend.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/javaClass.svg" iconPlugin="com.intellij" isLeaf="true" text="Backend.class" />
+                  <item name="Backend.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Dataset.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Dataset" />
+                  <item name="Dataset" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Dataset.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/javaClass.svg" iconPlugin="com.intellij" isLeaf="true" text="Dataset.class" />
+                  <item name="Dataset.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Device.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Device" />
+                  <item name="Device" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Device.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/javaClass.svg" iconPlugin="com.intellij" isLeaf="true" text="Device.class" />
+                  <item name="Device.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/EncostSmartHomesDataset.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="EncostSmartHomesDataset.txt" />
+                  <item name="EncostSmartHomesDataset.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/GraphDataType.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="GraphDataType" />
+                  <item name="GraphDataType" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/GraphDataType.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/javaClass.svg" iconPlugin="com.intellij" isLeaf="true" text="GraphDataType.class" />
+                  <item name="GraphDataType.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/gs-core-1.3.jar" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/archive.svg" iconPlugin="com.intellij" isLeaf="false" text="gs-core-1.3.jar" />
+                  <item name="gs-core-1.3.jar" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/gs-ui-1.3.jar" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/archive.svg" iconPlugin="com.intellij" isLeaf="false" text="gs-ui-1.3.jar" />
+                  <item name="gs-ui-1.3.jar" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/junit-platform-console-standalone-1.8.2.jar" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/archive.svg" iconPlugin="com.intellij" isLeaf="false" text="junit-platform-console-standalone-1.8.2.jar" />
+                  <item name="junit-platform-console-standalone-1.8.2.jar" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/stylesheet.css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="stylesheet.css" />
+                  <item name="stylesheet.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/COMPX341-Assignment4.iml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ideaModule.svg" iconPlugin="com.intellij" isLeaf="true" text="COMPX341-Assignment4.iml" />
+                <item name="COMPX341-Assignment4.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pipeline.sh" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="pipeline.sh" />
+                <item name="pipeline.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$/src" processType="SHELL">
+        <option name="shellCommand">
+          <option value="/usr/bin/bash" />
+          <option value="-i" />
+        </option>
+        <option name="envVariables">
+          <map />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2026.06.12 at 21h 09m 10s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3303221" />
+      <window_info id="Commit" order="1" weight="0.33013323" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3296742" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.3296742" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3296742" />
+      <window_info anchor="bottom" id="Find" order="7" show_stripe_button="false" weight="0.3296742" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3296742" left="0.3303221" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Build</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="444" key="FileChooserDialogImpl" timestamp="1781308520289">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1010" y="444" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1781308520289" />
+    <state width="2470" height="418" key="GridCell.Tab.0.bottom" timestamp="1781256529380">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1781256529380" />
+    <state width="2470" height="418" key="GridCell.Tab.0.center" timestamp="1781256529380">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1781256529380" />
+    <state width="2470" height="418" key="GridCell.Tab.0.left" timestamp="1781256529380">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1781256529380" />
+    <state width="2470" height="418" key="GridCell.Tab.0.right" timestamp="1781256529380">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1781256529380" />
+    <state x="764" y="278" key="SettingsEditor" timestamp="1781223427427">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="764" y="278" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1781223427427" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ESGPAccountLoginUnitTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/categorizingUsersUnitTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/CategorizingSmartHomeDevicesUnitTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/CategorizingUsersUnitTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/BuildingGraphDataTypeUnitTests.java" />
+    <entry file="file://$PROJECT_DIR$/pipeline.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EncostSmartHomesDataset.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Device.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dataset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphDataType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Backend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gs-core-1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/COMPX301/compx301-assignment3/COMPX301-Assignment3" value="true" />
+        <entry key="$USER_HOME$/Documents/COMPX301/compx301-assignment4" value="true" />
+        <entry key="$USER_HOME$/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4" value="true" />
+        <entry key="$USER_HOME$/Documents/COMPX341/Ass3/Assignment3-Code" value="true" />
+        <entry key="$USER_HOME$/Documents/COMPX341/Ass4" value="true" />
+        <entry key="$USER_HOME$/Documents/COMPX341/Ass4/COMPX341-Assignment4" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,63 @@
+[mgr]
+cwd = { fg = "#FFFFFF"}
+
+#Find
+find_keyword = { fg = "#ff00c3", bg = "#CCCCCC", bold = true}
+find_position = { fg = "#ff00c3", bg = "#CCCCCC", bold = true, italic = true}
+
+#Markers
+marker_copied = { fg = "green", bold = true, italic = true}
+marker_cut = { fg = "red", bold = true, italic = true}
+marker_marked = {fg = "#ff00c3", bg = "#ff00c3", bold = true, italic = true}
+marker_selected = {fg = "#6600a0", bold = true, italic = true}
+
+#Border Style
+border_style = {fg = "#ff00c3", bold = true, italic = true}
+
+[indicator]
+current = { fg = "#CCCCCC", bg = "#FF00C3", italic = true}
+preview = { fg = "#CCCCCC", bg = "#ff00c3", italic = true}
+
+[status]
+overall = {fg = "#FFFFFF", bold = true}
+
+[confirm]
+border = {fg = "#ff00c3", bold = true}
+title = {fg = "#CCCCCC", bold = true}
+
+[spot]
+border = {fg = "#ff00c3", bold = true}
+title = {fg = "#CCCCCC", bold = true}
+
+[pick]
+border = {fg = "#ff00c3", bold = true}
+
+[input]
+border = {fg = "#ff00c3", bold = true}
+title = {fg = "#CCCCCC", bold = true}
+
+[cmp]
+border = {fg = "#ff00c3", bold = true}
+
+[filetype]
+rules = [
+	# Images
+	{ mime = "image/*", fg = "yellow" },
+
+	# Videos
+	{ mime = "video/*", fg = "blue" },
+	{ mime = "audio/*", fg = "green" },
+
+	# Empty files
+	{ mime = "inode/empty", fg = "#ff7777" },
+
+	# Orphan symbolic links
+	{ url = "*", is = "orphan", fg = "red" },
+
+	# ...
+
+	# Fallback
+	# { url = "*", fg = "white" },
+	{ url = "*/", fg = "#ff99c3", icon_fg = "#ff99c3" }
+]
+

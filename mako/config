@@ -1,0 +1,9 @@
+max-history=10
+on-button-right=dismiss-all
+font=JetBrainsMono Nerd Font Mono 9
+background-color=#ff00c3
+padding=6
+border-size=1
+border-color=#ff66ae
+border-radius=3
+max-visible=3

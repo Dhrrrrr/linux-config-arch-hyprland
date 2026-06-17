@@ -1,0 +1,13 @@
+[mgr]
+show_hidden = true
+title_format = "Current at: {cwd}"
+
+[preview]
+image_quality = 90
+
+[opener]
+edit = [
+	{ run = 'vim "$@"', block = true, for = "unix", desc = "Vim" },
+	{ run = 'subl "$@"', block = true, for = "unix", desc = "Sublime" },
+	{ run = 'subl "$@"', block = true, for = "unix", desc = "libreoffice" },
+]

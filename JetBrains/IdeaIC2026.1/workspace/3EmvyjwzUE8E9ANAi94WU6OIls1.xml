@@ -1,0 +1,613 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="compx301-assignment4" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2mwef0ikgq8z4" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md" file-id="93477" managing-fs="1778642437741">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/Main.java" file-id="73740" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/SimAnnStack.java" file-id="93518" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="546">
+              <caret line="318" column="27" selection-start-line="318" selection-start-column="27" selection-end-line="318" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SimAnnStack.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/README.txt" file-id="101202" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.txt","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/output.txt" file-id="101201" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"output.txt","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/cubes0009 (1).boxes" file-id="93514" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"cubes0009 (1).boxes","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0010.boxes" file-id="93517" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"rand0010.boxes","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/Box.java" file-id="93519" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="370">
+              <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Box.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/cubes0009.boxes" file-id="93509" managing-fs="1778642437741">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"cubes0009.boxes","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 7,
+      "lastUsed": 1781240580540
+    },
+    "JAVA": {
+      "usageCount": 18,
+      "lastUsed": 1781240580119
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 23,
+      "lastUsed": 1781243084931
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sys</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/assets/Boxes/cubes0009.boxes",
+    "/home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/assets/Boxes/rand0010.boxes",
+    "/home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/src/SimAnnStack.java",
+    "/home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/src/README.txt",
+    "/home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/src/Box.java"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="18" lastUsage="1781240580119" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="7" lastUsage="1781240580540" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="23" lastUsage="1781243084931" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="compx301-assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compx301-assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compx301-assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/assets}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compx301-assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/assets}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/assets/Boxes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compx301-assignment4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="compx301-assignment4" />
+            <item name="compx301-assignment4" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="compx301-assignment4" />
+              <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="COMPX301-Assignment4" />
+                <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/.idea" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                  <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/.idea}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assets" />
+                  <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/assets}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Boxes" />
+                    <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/assets/Boxes}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/cubes0009.boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="cubes0009.boxes" />
+                      <item name="cubes0009.boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/cubes0009 (1).boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="cubes0009 (1).boxes" />
+                      <item name="cubes0009 (1).boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0010.boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0010.boxes" />
+                      <item name="rand0010.boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0010 (1).boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0010 (1).boxes" />
+                      <item name="rand0010 (1).boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0010 (2).boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0010 (2).boxes" />
+                      <item name="rand0010 (2).boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0020.boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0020.boxes" />
+                      <item name="rand0020.boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0050.boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0050.boxes" />
+                      <item name="rand0050.boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0050 (1).boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0050 (1).boxes" />
+                      <item name="rand0050 (1).boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0100.boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0100.boxes" />
+                      <item name="rand0100.boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0500.boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand0500.boxes" />
+                      <item name="rand0500.boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand1000.boxes" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="rand1000.boxes" />
+                      <item name="rand1000.boxes" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes.gz" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="Boxes.gz" />
+                    <item name="Boxes.gz" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/src" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                  <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/COMPX301-Assignment4/src}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/src/Box.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Box" />
+                    <item name="Box" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/src/Box.class" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/javaClass.svg" iconPlugin="com.intellij" isLeaf="true" text="Box.class" />
+                    <item name="Box.class" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/src/Main.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Main" />
+                    <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/src/output.txt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="output.txt" />
+                    <item name="output.txt" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/src/README.txt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="README.txt" />
+                    <item name="README.txt" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/src/SimAnnStack.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="SimAnnStack" />
+                    <item name="SimAnnStack" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/COMPX301-Assignment4/COMPX301-Assignment4.iml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ideaModule.svg" iconPlugin="com.intellij" isLeaf="true" text="COMPX301-Assignment4.iml" />
+                  <item name="COMPX301-Assignment4.iml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/out" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="out" />
+                <item name="dir{file:///home/djamieson/Documents/COMPX301/compx301-assignment4/out}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/compx301-assignment4.iml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ideaModule.svg" iconPlugin="com.intellij" isLeaf="true" text="compx301-assignment4.iml" />
+                <item name="compx301-assignment4.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$/COMPX301-Assignment4/src" processType="SHELL">
+        <option name="shellCommand">
+          <option value="/usr/bin/bash" />
+          <option value="-i" />
+        </option>
+        <option name="envVariables">
+          <map />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.116183385" />
+      <window_info id="Commit" order="1" visible="true" weight="0.116183385" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3296742" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3296742" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3296742" left="0.116183385" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="458" key="FileChooserDialogImpl" timestamp="1781247643281">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1032" y="458" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1781247643281" />
+    <state width="2470" height="418" key="GridCell.Tab.0.bottom" timestamp="1780990752344">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1780990752344" />
+    <state width="2470" height="418" key="GridCell.Tab.0.center" timestamp="1780990752344">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1780990752344" />
+    <state width="2470" height="418" key="GridCell.Tab.0.left" timestamp="1780990752343">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1780990752343" />
+    <state width="2470" height="418" key="GridCell.Tab.0.right" timestamp="1780990752344">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2470" height="418" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1780990752344" />
+    <state x="876" y="436" key="Vcs.Push.Dialog.v2" timestamp="1780990742110">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="876" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1780990742109" />
+    <state x="876" y="349" width="800" height="713" key="new project wizard" timestamp="1781217943186">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="876" y="349" width="800" height="713" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1781217943186" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/cubes0009.boxes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/rand0010.boxes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/SimAnnStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="318" column="27" selection-start-line="318" selection-start-column="27" selection-end-line="318" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/assets/Boxes/cubes0009 (1).boxes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COMPX301-Assignment4/src/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

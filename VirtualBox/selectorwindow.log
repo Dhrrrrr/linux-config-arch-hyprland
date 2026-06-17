@@ -1,0 +1,23 @@
+00:00:00.133092 VirtualBox GUI VM Selector Window 7.2.4 r170995 linux.amd64 (Oct 22 2025 16:59:14) release log
+00:00:00.133093 Log opened 2025-12-13T01:35:42.308180000Z
+00:00:00.133093 Build Type: release
+00:00:00.133094 OS Product: Linux
+00:00:00.133094 OS Release: 6.17.9-zen1-1-zen
+00:00:00.133095 OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Mon, 24 Nov 2025 15:21:16 +0000
+00:00:00.133109 DMI Product Name: B460MDS3HAC
+00:00:00.133115 DMI Product Version: Default string
+00:00:00.133118 Firmware type: UEFI
+00:00:00.133207 Secure Boot: Disabled
+00:00:00.133230 Host RAM: 32016MB (31.2GB) total, 18322MB (17.8GB) available
+00:00:00.133232 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.133232 Process ID: 38237
+00:00:00.133232 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.133245 Qt version: 6.10.1
+00:00:00.133504 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.136778 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.503600 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.761291 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 1279x719 x 800x800
+00:00:04.761307 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1279x719 x 800x800
+00:00:06.737068 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:19.071459 GUI: UICommon: Handling aboutToQuit request..
+00:00:20.026461 GUI: UICommon: aboutToQuit request handled!
