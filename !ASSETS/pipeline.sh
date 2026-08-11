@@ -56,7 +56,7 @@ fi
 
 echo ""
 echo "(4) Pushing to git"
-git push "https://$GIT_USER:$GIT_PAT@$REPO" main
+git push --force-with-lease "https://$GIT_USER:$GIT_PAT@$REPO" main
 
 if [ $? -ne 0 ]; then
   echo "--------------- Pipeline Failure -------------"
