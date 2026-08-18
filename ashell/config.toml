@@ -12,11 +12,17 @@ workspace_colors=["#ff00c3"]
 special_workspace_colors=["#4400ff"]
 
 [appearance.menu]
-opacity=0.4
+opacity=0.8
 
 [appearance.background_color]
 base="#ff00c3"
 strong="#ff00ae"
+weak="#ff00dd"
+text="#777777"
+
+[appearance.primary_color]
+base="#ff00c3"
+strong="#ff22ff"
 weak="#ff00dd"
 text="#777777"
 
@@ -33,3 +39,7 @@ indicators = ["UploadSpeed", "DownloadSpeed"]
 check_cmd = "checkupdates; yay -Qua"
 update_cmd = 'kitty -e bash -c "yay -Syu; echo UPDATES DONE MOTHERFUCKER WOOOOOOOOOOOO; read" &'
 
+[[CustomModule]]
+name = "Clock"
+type = "Text"
+listen_cmd = "sh -c 'while true; do echo \"{\\\"text\\\": \\\"$(date +\"%H:%M:%S\")\\\", \\\"alt\\\": \\\"\\\"}\"; sleep 1; done'"
