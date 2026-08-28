@@ -283,6 +283,13 @@ hl.bind(mainMod .. " + KP_Down", hl.dsp.exec_cmd(music))
 hl.bind(mainMod .. " + KP_Next", hl.dsp.exec_cmd(discord))
 hl.bind(mainMod .. " + KP_Left", hl.dsp.exec_cmd("[workspace 6 silent] " .. steam))
 
+-- Screenshot utils
+--bind =, Print, exec, grim -g "$(slurp)" - | wl-copy && wl-paste > ~/Pictures/Screenshots/Screenshot-$(date +%F_%T).png | dunstify "Screenshot of the region taken" -t 1000 # screenshot of a region 
+--bind = SHIFT, Print, exec, grim - | wl-copy && wl-paste > ~/Pictures/Screenshots/Screenshot-$(date +%F_%T).png | dunstify "Screenshot of whole screen taken" -t 1000 # screenshot of the whole screen
+
+hl.bind("SHIFT + Print", hl.dsp.exec_cmd('grim - | wl-copy && wl-paste > ~/Pictures/Screenshots/Screenshot-$(date +%F_%T).png | notify-send "Screenshot of whole screen taken" -t 3000'))
+hl.bind("Print", hl.dsp.exec_cmd('grim -g "$(slurp)" - | wl-copy && wl-paste > ~/Pictures/Screenshots/Screenshot-$(date +%F_%T).png | notify-send "Snippet taken" -t 3000'), { release = true})
+
 -- Initial launch system
 hl.bind(mainMod .. " + KP_Prior", function()
     hl.dispatch(hl.dsp.exec_cmd(browser))
